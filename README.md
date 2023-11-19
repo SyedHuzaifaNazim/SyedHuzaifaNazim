@@ -6,5 +6,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/SyedHuzaifaNazim](https://github.com/SyedHuzaifaNazim)
 
 <h3>Connect with me:-</h3>
+<h5>From linkedIn:</h5>
     <a href="www.linkedin.com/in/syed-huzaifa-nazim-a861b727a">Syed Huzaifa Nazim.In</a>
+    <br>
+    <h5>From Twitter:</h5>
+    <a href="https://twitter.com/Huzaifa88219">Syed Huzaifa Nazim</a>
 
