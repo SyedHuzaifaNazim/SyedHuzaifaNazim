@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Huzaifa Nazim</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<img src="web_developing-dJoGejvV7nI9KNlO.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedhuzaifanazim&label=Profile%20views&color=0e75b6&style=flat" alt="syedhuzaifanazim" /> </p>
 
 <p align="left"> <a href="https://twitter.com/huzaifa88219" target="blank"><img src="https://img.shields.io/twitter/follow/huzaifa88219?logo=twitter&style=for-the-badge" alt="huzaifa88219" /></a> </p>
