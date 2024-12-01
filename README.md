@@ -13,6 +13,7 @@
 - 💬 Ask me about **Next.js and React.js**
 
 - 📫 How to reach me **huzaifanazim154@gmail.com**
+- <p>📃 My Resume:<a href="https://hackerresume-prod.s3.us-east-1.amazonaws.com/resumes/huzaifanazim154/bc32d084-b566-4f09-ab46-039be43b8996.pdf">click here</a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
